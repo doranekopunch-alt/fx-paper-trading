@@ -1,13 +1,13 @@
 {
   "last_date": {
-    "USDJPY": "2026-11-12",
-    "EURJPY": "2026-11-12",
-    "EURUSD": "2026-11-12"
+    "USDJPY": "2026-11-15",
+    "EURJPY": "2026-11-15",
+    "EURUSD": "2026-11-15"
   },
   "balances": {
-    "USDJPY": 3399.799207973517,
-    "EURJPY": 3307.57860187155,
-    "EURUSD": 3367.8874200366154
+    "USDJPY": 3401.395777597908,
+    "EURJPY": 3326.988931727006,
+    "EURUSD": 3388.4070842893366
   },
   "history": [
     {
@@ -189,6 +189,42 @@
       "date": "2026-11-12",
       "balance_jpy": 3367.89,
       "daily_return_pct": 1.0346
+    },
+    {
+      "pair": "USDJPY",
+      "date": "2026-11-13",
+      "balance_jpy": 3402.8,
+      "daily_return_pct": 0.0883
+    },
+    {
+      "pair": "USDJPY",
+      "date": "2026-11-15",
+      "balance_jpy": 3401.4,
+      "daily_return_pct": -0.0413
+    },
+    {
+      "pair": "EURJPY",
+      "date": "2026-11-13",
+      "balance_jpy": 3318.1,
+      "daily_return_pct": 0.3182
+    },
+    {
+      "pair": "EURJPY",
+      "date": "2026-11-15",
+      "balance_jpy": 3326.99,
+      "daily_return_pct": 0.2677
+    },
+    {
+      "pair": "EURUSD",
+      "date": "2026-11-13",
+      "balance_jpy": 3381.55,
+      "daily_return_pct": 0.4055
+    },
+    {
+      "pair": "EURUSD",
+      "date": "2026-11-15",
+      "balance_jpy": 3388.41,
+      "daily_return_pct": 0.2029
     }
   ]
 }
