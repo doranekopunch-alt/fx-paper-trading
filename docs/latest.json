@@ -1,30 +1,30 @@
 {
-  "generated_at": "2026-11-16T08:58:46.534722+09:00",
+  "generated_at": "2026-11-17T08:57:45.380092+09:00",
   "pairs": {
     "USDJPY": {
-      "date": "2026-11-15",
+      "date": "2026-11-16",
       "signal": "買い",
-      "balance_jpy": 3401.4,
-      "close": 159.80901
+      "balance_jpy": 3393.93,
+      "close": 159.524
     },
     "EURJPY": {
-      "date": "2026-11-15",
+      "date": "2026-11-16",
       "signal": "売り",
-      "balance_jpy": 3326.99,
-      "close": 176.186
+      "balance_jpy": 3349.55,
+      "close": 175.461
     },
     "EURUSD": {
-      "date": "2026-11-15",
+      "date": "2026-11-16",
       "signal": "売り",
-      "balance_jpy": 3388.41,
-      "close": 1.10278
+      "balance_jpy": 3403.1,
+      "close": 1.10023
     }
   },
   "warnings": [],
   "currency": "JPY",
   "initial_jpy": 10000.0,
-  "total_jpy": 10116.79,
-  "pnl_jpy": 116.79,
+  "total_jpy": 10146.57,
+  "pnl_jpy": 146.57,
   "history": [
     {
       "pair": "USDJPY",
@@ -241,6 +241,24 @@
       "date": "2026-11-15",
       "balance_jpy": 3388.41,
       "daily_return_pct": 0.2029
+    },
+    {
+      "pair": "USDJPY",
+      "date": "2026-11-16",
+      "balance_jpy": 3393.93,
+      "daily_return_pct": -0.2195
+    },
+    {
+      "pair": "EURJPY",
+      "date": "2026-11-16",
+      "balance_jpy": 3349.55,
+      "daily_return_pct": 0.6781
+    },
+    {
+      "pair": "EURUSD",
+      "date": "2026-11-16",
+      "balance_jpy": 3403.1,
+      "daily_return_pct": 0.4335
     }
   ]
 }
